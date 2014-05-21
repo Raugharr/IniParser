@@ -1,2 +1,3 @@
-IniReader
+IniParser
 =========
+Lightweight INI reader.
